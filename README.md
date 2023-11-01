@@ -15,3 +15,6 @@ PHASES
 3. Data Exploration and Visualization**: We employed tools like Cognos for interactive data exploration and visualization, enabling us to create insightful visualizations to represent the socio-economic landscape.
 
 4. Integration and Synthesis: In the final phase, we integrated findings from previous phases to create a holistic understanding of the socio-economic conditions of marginal workers.
+
+*The Dataset is provided with the files*
+
